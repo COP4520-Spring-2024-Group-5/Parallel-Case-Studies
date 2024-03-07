@@ -15,5 +15,21 @@ Instead, we may decide to look at the usage of parallel programming in various p
 We also may include some details and visuals for the research opportunity we participated in.
 
 ## Challenges, Tasks, and Goals
+### Challenges
+- We all signed up for the research opportunity, but we also got scheduled in late Feburary and early March.
+- We also lost a team member early on, which meant we needed to replan the distribution of work.
+
+### Tasks
+- Continue research on parallel programming usages in the real world.
+- Discuss the research opportunity we all participated in.
+- Write an abstract and introduction for the report.
+- Write a concise problem statement for the report.
+- Begin working on a presentation powerpoint slide.
+- Add relevant source code and files to GitHub.
+
+### Goals
+- Complete a video presentation of our project by the presentation date. (Tuesday, March 26th)
+- Complete the group project report by the submittal date. (Thursday, April 18th)
 
 ## Rough Draft
+[https://www.overleaf.com/read/qwjrzmnfzjxw#83df7e](https://www.overleaf.com/read/qwjrzmnfzjxw#83df7e)
