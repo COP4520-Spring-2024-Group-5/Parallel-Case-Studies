@@ -17,9 +17,10 @@ We also may include some details and visuals for the research opportunity we par
 
 ### Tasks
 - Continue research on parallel programming usages in the real world.
-- Discuss the research opportunity we all participated in.
-- Write an abstract and introduction for the report.
+- ~~Discuss the research opportunity we all participated in.~~
+- ~~Write an abstract and introduction for the report.~~
 - Write a concise problem statement for the report.
+- Write related work, technique, evaluation, discussion, and conclusion sections.
 - Begin working on a presentation powerpoint slide.
 - Add relevant source code and files to GitHub.
 
