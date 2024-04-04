@@ -16,17 +16,17 @@ We also may include some details and visuals for the research opportunity we par
 - We also lost a team member early on, which meant we needed to replan the distribution of work.
 
 ### Tasks
-- Continue research on parallel programming usages in the real world.
+- ~~Continue research on parallel programming usages in the real world.~~
 - ~~Discuss the research opportunity we all participated in.~~
 - ~~Write an abstract and introduction for the report.~~
-- Write a concise problem statement for the report.
-- Write related work, technique, evaluation, discussion, and conclusion sections.
-- Begin working on a presentation powerpoint slide.
-- Add relevant source code and files to GitHub.
+- ~~Write a concise problem statement for the report.~~
+- ~~Write related work, technique, evaluation, discussion, and conclusion sections.~~
+- ~~Begin working on a presentation powerpoint slide.~~
+- ~~Add relevant source code and files to GitHub.~~
 
 ### Goals
-- Complete a video presentation of our project by the presentation date. (Tuesday, March 26th)
+- ~~Complete a video presentation of our project by the presentation date. (Tuesday, March 26th)~~
 - Complete the group project report by the submittal date. (Thursday, April 18th)
 
 ## Rough Draft
-[https://www.overleaf.com/read/qwjrzmnfzjxw#83df7e](https://www.overleaf.com/read/qwjrzmnfzjxw#83df7e)
+[https://www.overleaf.com/read/qpdjdtzccwtj#fdcd79](https://www.overleaf.com/read/qpdjdtzccwtj#fdcd79)
